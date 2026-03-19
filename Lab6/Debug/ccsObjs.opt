@@ -1,0 +1,11 @@
+"./lab6_main.obj"
+"./ras.obj"
+"./seg7digit.obj"
+"./seg7raw.obj"
+"./temp_sensor.obj"
+"./tm4c123gh6pm_startup_ccs.obj"
+"C:/Users/iogun/OneDrive/Desktop/ECE 266 (FA25 - Labs)/LabGroupC5/Util/Debug/Util.lib"
+"../tm4c123gh6pm.cmd"
+-llibc.a
+-l"C:/ti/TivaWare_C_Series-2.2.0.295/driverlib/ccs/Debug/driverlib.lib"
+-l"C:/Users/iogun/OneDrive/Desktop/ECE 266 (FA25 - Labs)/LabGroupC5/Util/Debug/Util.lib"
